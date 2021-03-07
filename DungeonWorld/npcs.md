@@ -1,7 +1,7 @@
 # DungeonWorld
-|NPC|
-|---|
-|Name: {{lookup "dungeonworld/npcs/names"}}. Instinct: {{lookup "dungeonworld/npcs/instincts"}}. Knack: {{lookup "dungeonworld/npcs/knacks"}}|
+| NPC                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name: {{lookup "dungeonworld/npcs/names"}}. Instinct: {{lookup "dungeonworld/npcs/instincts"}}. Knack: {{lookup "dungeonworld/npcs/knacks"}} |
 
 ## NPCs
 
