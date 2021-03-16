@@ -1,11 +1,11 @@
 # DungeonWorld
-| NPC                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Name: {{lookup "dungeonworld/npcs/names"}}. Instinct: {{lookup "dungeonworld/npcs/instincts"}}. Knack: {{lookup "dungeonworld/npcs/knacks"}} |
+| quick NPC                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------- |
+| Name: {{lookup "./npcs/names"}}. Instinct: {{lookup "./npcs/instincts"}}. Knack: {{lookup "./npcs/knacks"}} |
 
 ## NPCs
 
-| Instincts                                  |
+| _Instincts_                                |
 | ------------------------------------------ |
 | To avenge                                  |
 | To spread the good word                    |
@@ -24,7 +24,7 @@
 | To prove a point                           |
 | To be smarter, faster and stronger         |
 | To heal an old wound                       |
-| To extinguish an evilf orever              |
+| To extinguish an evil forever              |
 | To hide from a shameful fact               |
 | To evangelize                              |
 | To spread suffering                        |
@@ -52,7 +52,7 @@
 | To help others                             |
 | To atone                                   |
 
-| Knacks                                        |
+| _Knacks_                                      |
 | --------------------------------------------- |
 | Criminal connections                          |
 | Muscle                                        |
@@ -153,7 +153,7 @@
 | Power overwhelmiDelusions of grandeur         |
 | The wind at his back and a spring in his step |
 
-| Names       |
+| _Names_     |
 | ----------- |
 | Finbar      |
 | Hywn        |
