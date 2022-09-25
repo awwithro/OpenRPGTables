@@ -9,12 +9,12 @@ Size: {{$size}}
 {{$themes := lookup (print "./dungeons/sizes/" $size "/themes") |atoi -}}
 Themes:
 {{ range $x := until $themes -}}
-      {{lookup "./dungeons/theme" | print "\t" }}
+      * {{lookup "./dungeons/theme" | print "\t" }}
 {{end -}}
 {{$areas := lookup (print "./dungeons/sizes/" $size "/areas") |atoi -}}
 Areas:
 {{ range $x := until $areas -}}
-      {{lookup "./dungeons/area" | print "\t" }}
+      * {{lookup "./dungeons/area" | print "\t" }}
 {{end -}}
 ```
 
