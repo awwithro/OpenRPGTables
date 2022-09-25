@@ -1,7 +1,10 @@
 # DungeonWorld
-| quick NPC                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------- |
-| Name: {{lookup "./npcs/names"}}. Instinct: {{lookup "./npcs/instincts"}}. Knack: {{lookup "./npcs/knacks"}} |
+
+```quick NPC
+Name: {{lookup "./npcs/names"}}.
+Instinct: {{lookup "./npcs/instincts"}}.
+Knack: {{lookup "./npcs/knacks"}}
+```
 
 ## NPCs
 
