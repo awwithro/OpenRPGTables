@@ -34,10 +34,10 @@
 
 | Steading                                  | 1d12 |
 | ----------------------------------------- | ---- |
-| Village {{lookup "./steadings/village" }} | 1-5  |
-| Town {{lookup "./steadings/town" }}       | 6-8  |
-| Keep {{lookup "./steadings/keep" }}       | 9-11 |
-| City {{lookup "./steadings/city"}}        | 12   |
+| Village: {{lookup "./steadings/village" }} | 1-5  |
+| Town: {{lookup "./steadings/town" }}       | 6-8  |
+| Keep: {{lookup "./steadings/keep" }}       | 9-11 |
+| City: {{lookup "./steadings/city"}}        | 12   |
 
 | Creature                              | 1d12 |
 | ------------------------------------- | ---- |
@@ -65,7 +65,6 @@ Damage Die: {{lookup "./npcs/traits/damagedie"}}
 | {{lookup "dungeonworld/creatures/humanoid"}} |
 
 ``` village
-
 {{lookup "dungeonworld/place"}}
 Built By: {{lookup "./builtby"}}
 Tags: Poor, Steady, Militia, Resource (add table), Oath (other steading)
@@ -74,7 +73,6 @@ Problem: {{lookup "./villages/problems"}}
 ```
 
 ``` town
-
 {{lookup "dungeonworld/place"}}
 Built By: {{lookup "./builtby"}}
 Tags: Moderate, Steady, Watch, Trade (2 locations)
@@ -83,7 +81,6 @@ Problem: {{lookup "./town/problems"}}
 ```
 
 ``` keep
-
 {{lookup "dungeonworld/place"}}
 Built By: {{lookup "./builtby"}}
 Tags: Poor, Guard, Need (supplies), Trade, Oath
