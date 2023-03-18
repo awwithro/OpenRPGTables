@@ -89,7 +89,6 @@ Problem: {{lookup "./keep/problems"}}
 ```
 
 ``` city
-
 {{lookup "dungeonworld/place"}}
 Built By: {{lookup "./builtby"}}
 Tags: Moderate, Steady, Guard, Market, Guild, 2+ Oaths
@@ -201,7 +200,6 @@ Problem: {{lookup "./city/problems"}}
 | {{lookup "./traits/physicalappearance"}} | 1-6   |
 | {{lookup "./traits/personality"}}        | 7-9   |
 | {{lookup "./traits/quirk"}}              | 10-12 |
-
 
 ### Contexts
 
